@@ -1,5 +1,6 @@
 package com.sh.together;
 
+import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -13,5 +14,8 @@ public class MinjeongServlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         resp.setContentType("text/html; charset=utf-8");
         resp.getWriter().println("Minjeong🎈");
+
+        RequestDispatcher requestDispatcher = req.getRequestDispatcher("/views/minjeongTest.jsp");
+        requestDispatcher.forward(req, resp);
     }
 }
