@@ -13,5 +13,6 @@ public class JunServlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         resp.setContentType("text/html; charset=utf-8");
         resp.getWriter().println("Jun 😁😁😁");
+        resp.getWriter().println("Hi 누나 나는 민준이야 만나서 Welcome이야 🌈🌈🌈");
     }
 }
