@@ -16,6 +16,7 @@
 
     <%-- srcipt --%>
     <%-- minjeong start --%>
+    <script src="https://zzz.com/zzz.js"></script>
     <%-- minjeong end --%>
     <%-- jun start --%>
     <%-- jun end --%>
