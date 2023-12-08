@@ -10,6 +10,7 @@
     <title>Together</title>
     <%-- css --%>
     <%-- minjeong start --%>
+    <link rel="stylesheet" href="css/오류테스트.css">
     <%-- minjeong end --%>
     <%-- jun start --%>
     <%-- jun end --%>
