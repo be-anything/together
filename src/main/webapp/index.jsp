@@ -11,6 +11,7 @@
 </head>
 <body>
     <h1>Together</h1>
+    <a href="${pageContext.request.contextPath}/minjeong">minjeong</a>
     <a href="${pageContext.request.contextPath}/Jun">Jun</a>
 </body>
 </html>
