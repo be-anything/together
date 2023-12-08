@@ -19,6 +19,7 @@
     <script src="https://zzz.com/zzz.js"></script>
     <%-- minjeong end --%>
     <%-- jun start --%>
+    <script src="https://xxx.com/xxx.js"></script>
     <%-- jun end --%>
 </head>
 <body>
